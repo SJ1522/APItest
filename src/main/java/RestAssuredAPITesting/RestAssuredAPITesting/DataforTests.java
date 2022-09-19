@@ -16,7 +16,8 @@ public class DataforTests {
 //	   data[1][2]="5";
 	   return 	new Object[][] {
 			   {"Aadhira","Karthic",1},
-			   {"Priyanka","Karthic",2}
+			   {"Priyanka","Karthic",2},
+			   {"Taanvi","Karthik",2}
 	   };
 	
 	}
